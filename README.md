@@ -6,8 +6,8 @@ and then image can upload to server if you click button upload
 
 ## Documentation Video
 
-you can show documentation video in youtube chennel [mohammadnurulhakiki](www.youtube.com/c/mohammadnurulhakiki) </br>
-or Specific video you can klik this link [tutorial upload image with retrofit]("www.youtube.com/watch?v=Az_IS6SGmE4")
+you can show documentation video in youtube chennel [mohammadnurulhakiki](https://www.youtube.com/c/mohammadnurulhakiki). </br>
+or Specific video you can klik this link [tutorial upload image with retrofit](https://www.youtube.com/watch?v=Az_IS6SGmE4).
 
 ### Screenshot
 ![view](https://github.com/hakiki95/Upload-Image-With-Retrofit/blob/master/ss/tampilan.png)
